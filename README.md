@@ -1,10 +1,7 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-## BEM VINDO DEV!
-
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {digital college} e na faculdade {farias brito}.
-
+<div align="center">
+  <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer">
+</div>
 
 ## Minhas Skills
 
@@ -40,8 +37,9 @@
 <br/>
 
 <a href="https://github.com/filipe420" title="Perfil do Filipe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipe420&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=filipe420&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
+
 
 
 ## Onde me encontrar
@@ -49,4 +47,6 @@
 [![Linkedin](https://img.shields.io/badge/-Filipe%20Fernandes%20de%20Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipe-fernandes-de-lima-095290276/)](https://www.linkedin.com/in/filipe-fernandes-de-lima-095290276/)
 [![Gmail Badge](https://img.shields.io/badge/-ofilipelimaa@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ofilipelimaa@gmail.com)](mailto:ofilipelimaa@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@filiipeelimaa-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/filiipeelimaa/)](https://www.instagram.com/filiipeelimaa/)
+
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
