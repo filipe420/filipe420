@@ -49,4 +49,5 @@
 [![Instagram Badge](https://img.shields.io/badge/-@filiipeelimaa-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/filiipeelimaa/)](https://www.instagram.com/filiipeelimaa/)
 
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![Snake animation](https://github.com/filipe420/filipe420/blob/output/github-contribution-grid-snake.svg)
 
