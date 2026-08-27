@@ -32,7 +32,6 @@ const filipe = {
   formation: "Desenvolvimento Web Full Stack — Digital College",
   role: "Full Stack Developer",
   focus: ["Web Applications", "REST APIs", "Scalable Systems"],
-  looking_for: "Oportunidades de estágio em desenvolvimento de software",
   motto: "Clean code is not written by following rules — it's written by someone who cares."
 };
 ```
