@@ -110,7 +110,7 @@ const jogador = {
   ],
 
   missaoPrincipal:
-    "Conquistar uma oportunidade de estágio em desenvolvimento de software",
+    "Derrotar os próximos bosses e continuar evoluindo como desenvolvedor",
 
   status: "🟢 ONLINE",
 
@@ -590,12 +590,15 @@ Dashboard analítico de ocorrências de furtos com visualizações interativas e
 
 # 🏆 CONQUISTAS DESBLOQUEADAS
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=FFD700&center=true&vCenter=true&repeat=true&width=750&lines=%F0%9F%8F%86+CONQUISTA+DESBLOQUEADA!;%F0%9F%9A%80+PRIMEIRO+DEPLOY;%F0%9F%A4%96+CONSTRUTOR+DE+IA;%F0%9F%92%BB+DESENVOLVEDOR+FULL+STACK;%F0%9F%94%A5+APRENDIZADO+CONT%C3%8DNUO"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=FFD700&center=true&vCenter=true&repeat=true&width=800&lines=%F0%9F%8F%86+CONQUISTA+DESBLOQUEADA!;%F0%9F%8E%93+EST%C3%81GIO+CONQUISTADO!;%F0%9F%9A%80+PRIMEIRO+DEPLOY;%F0%9F%A4%96+CONSTRUTOR+DE+IA;%F0%9F%92%BB+DESENVOLVEDOR+FULL+STACK;%F0%9F%94%A5+APRENDIZADO+CONT%C3%8DNUO"/>
 
 ```text
 ╔════════════════════════════════════════════════════════════╗
 ║                   🏆 SALA DE TROFÉUS                      ║
 ╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  🎓 ESTÁGIO CONQUISTADO                                    ║
+║     Missão concluída ✅                                    ║
 ║                                                            ║
 ║  🌐 EXPLORADOR WEB                                         ║
 ║     Desenvolvimento Web desbloqueado                       ║
@@ -663,8 +666,8 @@ MISSOES_ATUAIS:
   - missao: "Arquitetura de Software"
     status: "EXPLORANDO 🏗️"
 
-  - missao: "Conquistar uma oportunidade de estágio"
-    status: "MISSÃO PRINCIPAL 🎯"
+  - missao: "Derrotar os próximos bosses e continuar evoluindo"
+    status: "MISSÃO PRINCIPAL ⚔️"
 ```
 
 <div align="center">
@@ -732,17 +735,28 @@ filipe@dev:~$ executar filosofia.dev
 > Repetir.
 
 
+filipe@dev:~$ verificar-conquistas
+
+[ SISTEMA ] Analisando progresso do jogador...
+
+> ESTÁGIO EM DESENVOLVIMENTO DE SOFTWARE
+
+> STATUS: CONQUISTADO ✅
+
+> +1000 XP
+
+
 filipe@dev:~$ buscar-proxima-missao
 
-[ SISTEMA ] Procurando novos desafios...
+[ SISTEMA ] Escaneando novos desafios...
 
 [████████████████████████████████████████████████] 100%
 
 > NOVA MISSÃO ENCONTRADA
 
-> ESTÁGIO EM DESENVOLVIMENTO DE SOFTWARE
+> DERROTAR OS PRÓXIMOS BOSSES
 
-> JOGADOR PRONTO 🚀
+> JOGADOR PRONTO PARA A PRÓXIMA BATALHA ⚔️
 ```
 
 ---
@@ -811,22 +825,24 @@ filipe@dev:~$ buscar-proxima-missao
 
 # 🎯 MISSÃO PRINCIPAL
 
-## `CONQUISTAR_ESTAGIO.exe`
+## `DERROTAR_PROXIMOS_BOSSES.exe`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=750&color=FFD700&center=true&vCenter=true&repeat=true&width=800&lines=INICIANDO+MISS%C3%83O+PRINCIPAL...;PROCURANDO+OPORTUNIDADES...;PREPARANDO+HABILIDADES...;CARREGANDO+PORTF%C3%93LIO...;JOGADOR+PRONTO+PARA+O+PR%C3%93XIMO+DESAFIO+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=750&color=FFD700&center=true&vCenter=true&repeat=true&width=850&lines=MISS%C3%83O+ANTERIOR+CONCLU%C3%8DDA+%E2%9C%85;EST%C3%81GIO+CONQUISTADO+%F0%9F%8F%86;NOVO+CAP%C3%8DTULO+DESBLOQUEADO...;IDENTIFICANDO+PR%C3%93XIMOS+BOSSES...;CARREGANDO+NOVOS+DESAFIOS...;JOGADOR+PRONTO+PARA+A+PR%C3%93XIMA+BATALHA+%E2%9A%94%EF%B8%8F"/>
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║                     🎯 MISSÃO PRINCIPAL                      ║
 ║                                                              ║
-║            ESTÁGIO EM DESENVOLVIMENTO DE SOFTWARE            ║
+║               DERROTAR OS PRÓXIMOS BOSSES                    ║
 ║                                                              ║
-║  STATUS ......................... PROCURANDO                  ║
+║  ESTÁGIO ......................... CONQUISTADO ✅             ║
+║                                                              ║
+║  NOVOS DESAFIOS .................. DESBLOQUEADOS              ║
 ║                                                              ║
 ║  JOGADOR ........................ PRONTO                      ║
 ║                                                              ║
-║  MOTIVAÇÃO ...................... MÁXIMA                      ║
+║  EVOLUÇÃO ....................... CONTÍNUA                    ║
 ║                                                              ║
 ║  APRENDIZADO .................... ATIVO                       ║
 ║                                                              ║
@@ -834,14 +850,45 @@ filipe@dev:~$ buscar-proxima-missao
 ║                                                              ║
 ║  CURIOSIDADE .................... ∞                           ║
 ║                                                              ║
-║  CARREGANDO PRÓXIMA OPORTUNIDADE...                          ║
+║  PROCURANDO PRÓXIMO BOSS...                                  ║
 ║                                                              ║
 ║  ████████████████████████████████████████████ 100%           ║
 ║                                                              ║
-║                   🚀 PRONTO PARA COMEÇAR                     ║
+║                  ⚔️ PRONTO PARA A BATALHA                    ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+
+### `BOSSES ATUAIS`
+
+```text
+👹 BOSS 01
+ARQUITETURA DE SOFTWARE
+██████████████████░░░░░░░░░░
+
+
+👹 BOSS 02
+ALGORITMOS AVANÇADOS
+███████████████░░░░░░░░░░░░░
+
+
+👹 BOSS 03
+SISTEMAS ESCALÁVEIS
+████████████░░░░░░░░░░░░░░░░
+
+
+👹 BOSS 04
+INTELIGÊNCIA ARTIFICIAL
+████████████████░░░░░░░░░░░░
+
+
+👑 FINAL BOSS
+TORNAR-SE UM DESENVOLVEDOR CADA VEZ MAIS COMPLETO
+
+STATUS: 🔒 A JORNADA CONTINUA
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=850&color=FF5555&center=true&vCenter=true&repeat=true&width=850&lines=NOVO+BOSS+DETECTADO!;PREPARANDO+ARSENAL...;CARREGANDO+HABILIDADES...;FILIPE+ENTROU+NA+BATALHA!;%3E+CONTINUE+EVOLUINDO+%E2%9A%94%EF%B8%8F"/>
 
 </div>
 
@@ -918,9 +965,13 @@ filipe@dev:~$ buscar-proxima-missao
 
 [ OK ] Projetos publicados
 
+[ OK ] Estágio conquistado 🎓
+
+[ OK ] Nova fase desbloqueada ⚔️
+
 [ OK ] Sistema operacional
 
-[ >> ] Aguardando o próximo desafio...
+[ >> ] Aguardando o próximo boss...
 
 STATUS DO SISTEMA: 🟢 TODOS OS SISTEMAS OPERACIONAIS
 ```
@@ -1015,6 +1066,11 @@ STATUS DO SISTEMA: 🟢 TODOS OS SISTEMAS OPERACIONAIS
                            │
                            ▼
 
+                  NOVOS BOSSES
+
+                           │
+                           ▼
+
                  NOVAS OPORTUNIDADES
 
                            │
@@ -1023,7 +1079,7 @@ STATUS DO SISTEMA: 🟢 TODOS OS SISTEMAS OPERACIONAIS
                            🚀
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=800&color=FF00FF&center=true&vCenter=true&repeat=true&width=850&lines=O+MAPA+AINDA+N%C3%83O+TERMINOU...;NOVAS+TECNOLOGIAS+SER%C3%83O+DESBLOQUEADAS...;NOVOS+PROJETOS+SER%C3%83O+CONSTRU%C3%8DDOS...;NOVOS+DESAFIOS+SER%C3%83O+ENFRENTADOS...;A+JORNADA+CONTINUA...+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=800&color=FF00FF&center=true&vCenter=true&repeat=true&width=850&lines=O+MAPA+AINDA+N%C3%83O+TERMINOU...;NOVOS+BOSSES+SER%C3%83O+ENFRENTADOS...;NOVAS+TECNOLOGIAS+SER%C3%83O+DESBLOQUEADAS...;NOVOS+PROJETOS+SER%C3%83O+CONSTRU%C3%8DDOS...;A+JORNADA+CONTINUA...+%F0%9F%9A%80"/>
 
 </div>
 
@@ -1045,6 +1101,8 @@ STATUS DO SISTEMA: 🟢 TODOS OS SISTEMAS OPERACIONAIS
            ║                 NÃO.              ║
            ║                                   ║
            ║          CONTINUE CRIANDO.        ║
+           ║                                   ║
+           ║          DERROTE OS BOSSES.       ║
            ║                                   ║
            ║          CONTINUE EVOLUINDO.      ║
            ║                                   ║
