@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FFF,100:FF00FF&height=240&section=header&text=FILIPE%20DEV%20UNIVERSE&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=UMA%20JORNADA%20FULL%20STACK&descAlignY=55&descSize=20"/>
 
-# 🎮 FILIPE DEV UNIVERSE
+# 🎮 FILIPE DEV 
 
 ### `UMA AVENTURA FULL STACK`
 
